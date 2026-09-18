@@ -1,0 +1,30 @@
+{
+  "accession": "GSE96583",
+  "sample": "GSM2560248",
+  "files": [
+    {
+      "filename": "GSE96583_batch2.genes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96583/suppl/GSE96583_batch2.genes.tsv.gz",
+      "bytes": 277054,
+      "sha256": "93aa4e9b530ef9d6411ca129b416324c5cc1cc5a01a1fa6ed4f4a845480ed3ca"
+    },
+    {
+      "filename": "GSE96583_batch2.total.tsne.df.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE96nnn/GSE96583/suppl/GSE96583_batch2.total.tsne.df.tsv.gz",
+      "bytes": 756342,
+      "sha256": "1d57e72e92ca8695250e88cc0f1c3fa8c0be1175d974f8b427c58f1274dc6c09"
+    },
+    {
+      "filename": "GSM2560248_2.1.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2560nnn/GSM2560248/suppl/GSM2560248_2.1.mtx.gz",
+      "bytes": 28545918,
+      "sha256": "32add28a0b3397d9ef3f220b7a6a55e98e60fe7b66fe48d0986d634df8ca0013"
+    },
+    {
+      "filename": "GSM2560248_barcodes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2560nnn/GSM2560248/suppl/GSM2560248_barcodes.tsv.gz",
+      "bytes": 52904,
+      "sha256": "d58d8d55cbe4a12757207784b3bc9227bf200c9100ca15131176e9f8159c955e"
+    }
+  ]
+}

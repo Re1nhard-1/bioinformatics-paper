@@ -1,0 +1,604 @@
+{
+  "utc": "2026-09-17T09:05:41.553915+00:00",
+  "status": "passed",
+  "description": "Dependency archives retrieved after installation; all archived files byte-identical to installed files.",
+  "dependencies": [
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/glue_1.8.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\glue_1.8.1.zip",
+      "bytes": 189708,
+      "sha256": "56e9e4328b6fcf9045185fc8b50187790b7b2a7d61a150bc9481d70637116a68",
+      "identical_installed_files": 39
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/cpp11_0.5.5.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\cpp11_0.5.5.zip",
+      "bytes": 324558,
+      "sha256": "c357da8615aeac6e448542a14bbcb5897146ebe77d8ae93bb07cba568088f973",
+      "identical_installed_files": 66
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/farver_2.1.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\farver_2.1.2.zip",
+      "bytes": 1523188,
+      "sha256": "18ccb70d2b9d1ded1a5a58a2f190f899d0015a70d9226c3e703a53c99e9181e4",
+      "identical_installed_files": 32
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/labeling_0.4.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\labeling_0.4.3.zip",
+      "bytes": 63897,
+      "sha256": "ce6601084696628fc48ed783ce3610f747137e2f2ceeda7e9cb4cdab5ba62297",
+      "identical_installed_files": 21
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/R6_2.6.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\R6_2.6.1.zip",
+      "bytes": 88699,
+      "sha256": "42b903ad935b9d3578e755192debfa58a0f0df697b01953d082269161f5d1c0c",
+      "identical_installed_files": 24
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/RColorBrewer_1.1-3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\RColorBrewer_1.1-3.zip",
+      "bytes": 54811,
+      "sha256": "2c43fa8a49b5f3a5f7011e2e948e5bfcdeca938a0bbc68b5aebdbab5c1bd57fa",
+      "identical_installed_files": 21
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/viridisLite_0.4.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\viridisLite_0.4.3.zip",
+      "bytes": 1300789,
+      "sha256": "c083a8377204cfafdf50e09630b525eb25e0276c01041dd627b31d95bcaefcf7",
+      "identical_installed_files": 26
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/SparseM_1.84-2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\SparseM_1.84-2.zip",
+      "bytes": 888989,
+      "sha256": "88dd54c47747faf07b93d1f36a8a278f4354c83959cd8b1b671599181972a8f1",
+      "identical_installed_files": 41
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/MatrixModels_0.5-4.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\MatrixModels_0.5-4.zip",
+      "bytes": 410720,
+      "sha256": "a3bc8102e83b3fafe9ae114e600881913c1dffde66409f5bb394f95e3ee9a5d0",
+      "identical_installed_files": 20
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/cli_3.6.6.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\cli_3.6.6.zip",
+      "bytes": 1406925,
+      "sha256": "1ac5785e09f615d1d2e3f1bbfae04c68665ff6b06aa391628c84fce1acb48196",
+      "identical_installed_files": 63
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/gtable_0.3.6.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\gtable_0.3.6.zip",
+      "bytes": 251357,
+      "sha256": "11006c7f08430e29045f9f1eb3f8f7e54e4836f8aef3291c9f88c6c2e423d785",
+      "identical_installed_files": 40
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/isoband_0.3.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\isoband_0.3.0.zip",
+      "bytes": 1975275,
+      "sha256": "3732ea5914ba08b0a30f7e12b7148979f562788e4d1aafa823d463fa42265b09",
+      "identical_installed_files": 36
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/lifecycle_1.0.5.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\lifecycle_1.0.5.zip",
+      "bytes": 149701,
+      "sha256": "e676caf7305dcf72d6b773584b74432b22583641a155c89e03c0badf86f1dadd",
+      "identical_installed_files": 45
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/rlang_1.3.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\rlang_1.3.0.zip",
+      "bytes": 1650920,
+      "sha256": "daf7131ff770fcec79dd3a2dd5b25a3f24bfda0033c5af6ecbb95057298ba0f0",
+      "identical_installed_files": 36
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/S7_0.2.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\S7_0.2.2.zip",
+      "bytes": 349969,
+      "sha256": "316abbbf654be69493c847bb39152b8e805e48ed1194868a32afab97002c00b5",
+      "identical_installed_files": 47
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/scales_1.4.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\scales_1.4.0.zip",
+      "bytes": 879609,
+      "sha256": "232a29a68de113cf07679521b15373d08ab0d764b52cb805d0c5537d4ed02b20",
+      "identical_installed_files": 39
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/vctrs_0.7.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\vctrs_0.7.3.zip",
+      "bytes": 1920404,
+      "sha256": "56262b7f976d8a5dee00dbe2f15deee269efe1d327b701b28d441888773df275",
+      "identical_installed_files": 57
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/withr_3.0.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\withr_3.0.3.zip",
+      "bytes": 233213,
+      "sha256": "2c46634f9739d68969cd14ed2bac5487838fe9b8b265554ffee342763fed4e52",
+      "identical_installed_files": 38
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/coda_0.19-4.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\coda_0.19-4.1.zip",
+      "bytes": 331766,
+      "sha256": "a64c6e2d700b31ddb77b4c6ad00b45949171a2bd441d215cb59fefa9e2c2e243",
+      "identical_installed_files": 24
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/mcmc_0.9-8.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\mcmc_0.9-8.zip",
+      "bytes": 1386206,
+      "sha256": "3a9ae5e2bea3619ad36929859dbe7b17fbc7f723a55e654222a8ac5d822e8098",
+      "identical_installed_files": 44
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/quantreg_6.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\quantreg_6.1.zip",
+      "bytes": 1474079,
+      "sha256": "923697d5da68a395fc5dd971024913d6116e907b15ee7e041eb0a6cceca38314",
+      "identical_installed_files": 64
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/BiocManager_1.30.27.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\BiocManager_1.30.27.zip",
+      "bytes": 664076,
+      "sha256": "466f6bb0d355812d6cae4ac8885d60689b7393043c70fad145c12d42eac23d14",
+      "identical_installed_files": 27
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/nnls_1.6.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\nnls_1.6.zip",
+      "bytes": 44476,
+      "sha256": "bd4e6ddee797ef11d125de9c1f1bc2a5a6b4be24006f7be6b7bf49be1c81e461",
+      "identical_installed_files": 24
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/ggplot2_4.0.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\ggplot2_4.0.3.zip",
+      "bytes": 8466071,
+      "sha256": "557b5462f4f28ebbd9b23552fe924f7aab79b00640e6946ea8e50e96eda12574",
+      "identical_installed_files": 58
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/MCMCpack_1.7-1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\MCMCpack_1.7-1.zip",
+      "bytes": 2639541,
+      "sha256": "d1373c5e65783dedb7634366f168b991aea308b5c52f9062a82f4dfe5c939790",
+      "identical_installed_files": 31
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/jsonlite_2.0.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\jsonlite_2.0.0.zip",
+      "bytes": 1110679,
+      "sha256": "50157a9d94c0fa39932f00b2cb2a60aafc7df7ef75f1212173839ea379cb5f81",
+      "identical_installed_files": 38
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/utf8_1.2.6.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\utf8_1.2.6.zip",
+      "bytes": 155263,
+      "sha256": "0e9e654fbf6661cb2c783ebf11cf921387a9c7e027c69b674d3172f86092ebde",
+      "identical_installed_files": 28
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/proxy_0.4-29.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\proxy_0.4-29.zip",
+      "bytes": 178317,
+      "sha256": "d5c84761b2a8b4ef73abb5aeaabec737810b227097a932c36f57955cfd6ded19",
+      "identical_installed_files": 28
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/stringi_1.8.9.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\stringi_1.8.9.zip",
+      "bytes": 15013735,
+      "sha256": "0762b244121481bbcccde805b75f7bcf62780d4f8713629998dd40468133b335",
+      "identical_installed_files": 29
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/abind_1.4-8.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\abind_1.4-8.zip",
+      "bytes": 67502,
+      "sha256": "e795fac87918c9af5c7e829e4784a1d3a263f83c2ea46cc68f066c7ad2b2233d",
+      "identical_installed_files": 21
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/pillar_1.11.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\pillar_1.11.1.zip",
+      "bytes": 673664,
+      "sha256": "2de15f6e6200a53ac56dd9aad2ced59c8f7b894cb19e36da24582031b7b9271a",
+      "identical_installed_files": 48
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/pkgconfig_2.0.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\pkgconfig_2.0.3.zip",
+      "bytes": 23026,
+      "sha256": "26b3b3f756f793842f1fc36e4d06b930a7749b883c1108c9ea8516ecd75f275e",
+      "identical_installed_files": 24
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/forcats_1.0.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\forcats_1.0.1.zip",
+      "bytes": 430170,
+      "sha256": "e198a7b8f9f7b098466cc3b94987ffcc2941182e141297fa0ce247f4248530f2",
+      "identical_installed_files": 42
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/patchwork_1.3.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\patchwork_1.3.2.zip",
+      "bytes": 3351210,
+      "sha256": "76bc8de4360ea658abe8028ca16171aabd20730849cb52c4f52861a2fb9015a0",
+      "identical_installed_files": 40
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/crayon_1.5.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\crayon_1.5.3.zip",
+      "bytes": 166631,
+      "sha256": "ee68ee6f930eb5f7ab4362f20b6d92b0d65d19fb588ff397bdff0f84da2967a8",
+      "identical_installed_files": 22
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/hms_1.1.4.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\hms_1.1.4.zip",
+      "bytes": 109434,
+      "sha256": "a4b3ef20f4773b827a2d0a425f336ab4b8418c54bf9351e1d87fbff799fe278f",
+      "identical_installed_files": 31
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/prettyunits_1.2.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\prettyunits_1.2.0.zip",
+      "bytes": 156113,
+      "sha256": "9c4988872c0aa380b067a1c48ca2a541419eeb9c0660e83247f3a4d72c94dea1",
+      "identical_installed_files": 24
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/XVector_0.50.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\XVector_0.50.0.zip",
+      "bytes": 696557,
+      "sha256": "98561702f300152808dd7cfffcb634af78295e923618773b51dbad9bfc422714",
+      "identical_installed_files": 29
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/e1071_1.7-17.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\e1071_1.7-17.zip",
+      "bytes": 669219,
+      "sha256": "1750906256928f61b412595748c8eedad6530d4edb085aad34e64540a6f1e46d",
+      "identical_installed_files": 30
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/matrixStats_1.5.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\matrixStats_1.5.0.zip",
+      "bytes": 558943,
+      "sha256": "58a8de4ee0cab52f6300b29b223cdf0e809b8ff92e6c075d8668be39c6cdbcd9",
+      "identical_installed_files": 114
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/stringr_1.6.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\stringr_1.6.0.zip",
+      "bytes": 349103,
+      "sha256": "43dee0503ad7155c8c366f0fc93087cabde47558b1d7a2ce25a51cd9070af42e",
+      "identical_installed_files": 52
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/locfdr_1.1-8.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\locfdr_1.1-8.zip",
+      "bytes": 307636,
+      "sha256": "93bb2984242150c5f7a02c7a16972612a50ea3edf94fcc874f897a1dcf1d9fc6",
+      "identical_installed_files": 28
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/statmod_1.5.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\statmod_1.5.2.zip",
+      "bytes": 328306,
+      "sha256": "db87dea1762c7b35f616dfcd0aa010f315261528d5ff219a9ad139e764d96afe",
+      "identical_installed_files": 26
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/MatrixGenerics_1.22.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\MatrixGenerics_1.22.0.zip",
+      "bytes": 459448,
+      "sha256": "3d71e736e24cd83e3ae7a8061a295ff43c835770cdfcb5f8fd0a5b818b352ce9",
+      "identical_installed_files": 21
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/IRanges_2.44.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\IRanges_2.44.0.zip",
+      "bytes": 2277355,
+      "sha256": "de6de1675948472c8732fb78d02f824f94c2b5a2e9adec82fb858400fd0b1e65",
+      "identical_installed_files": 58
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/Seqinfo_1.0.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\Seqinfo_1.0.0.zip",
+      "bytes": 434791,
+      "sha256": "83c89bb9d0bebe7e96143147539cf961f43cd562d14962eed32dcaf6fdd7642f",
+      "identical_installed_files": 29
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/S4Arrays_1.10.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\S4Arrays_1.10.1.zip",
+      "bytes": 1007253,
+      "sha256": "00b3a2bd656bff20c12951ac59299fda189bb2c401379f7d4132c5249ee93530",
+      "identical_installed_files": 28
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/foreach_1.5.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\foreach_1.5.2.zip",
+      "bytes": 150057,
+      "sha256": "afb41e9114b5720c633421b1f999cd58a23ca9866387b4ecd39f041b13f7c837",
+      "identical_installed_files": 55
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/iterators_1.0.14.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\iterators_1.0.14.zip",
+      "bytes": 353879,
+      "sha256": "e24aecdfbb582fcc15bbf5b018096fc07b374ed39db54e17bb82bc1a114eae8e",
+      "identical_installed_files": 47
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/dplyr_1.2.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\dplyr_1.2.1.zip",
+      "bytes": 1621059,
+      "sha256": "7deffa8e11bfd95855c54cb1d2006734a5f015b0d984feb87aed347321127a6f",
+      "identical_installed_files": 71
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/magrittr_2.0.5.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\magrittr_2.0.5.zip",
+      "bytes": 229099,
+      "sha256": "b7c3e8fcd46429a268d539c5a3fe27cebda213040153ec6a74282909a40905b7",
+      "identical_installed_files": 38
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/purrr_1.2.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\purrr_1.2.2.zip",
+      "bytes": 570967,
+      "sha256": "5003051627ac8af9c8efb1c9bd5f210f9976ddf7a56479ccc731c1b41cd52811",
+      "identical_installed_files": 44
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/tibble_3.3.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\tibble_3.3.1.zip",
+      "bytes": 667272,
+      "sha256": "514cab3352b593cddc95d17a27fc889fac3c5ba47c1b1420558ede7409480ce3",
+      "identical_installed_files": 57
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/tidyselect_1.2.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\tidyselect_1.2.1.zip",
+      "bytes": 229224,
+      "sha256": "497dc555d3ff80f6addbe46ecba5784e61ff45c9f12ca9212d24da094b523e37",
+      "identical_installed_files": 30
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/ggstats_0.14.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\ggstats_0.14.0.zip",
+      "bytes": 1341838,
+      "sha256": "6491ec74b55ab9c583d43b59532eb7f92f6a2672aa621d5ac598250340584cda",
+      "identical_installed_files": 60
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/progress_1.2.3.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\progress_1.2.3.zip",
+      "bytes": 89398,
+      "sha256": "6bf38ad2031ae6ecc010e5b34238c9fa5bbdc1b3eff4241d08e198d9eb66ac10",
+      "identical_installed_files": 25
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/generics_0.1.4.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\generics_0.1.4.zip",
+      "bytes": 84888,
+      "sha256": "bcb3960d1b8599a409d9ea5ae72f013a6a7abf1bf2813ab76e13cd04d4cc5172",
+      "identical_installed_files": 22
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/SparseArray_1.10.10.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\SparseArray_1.10.10.zip",
+      "bytes": 1819989,
+      "sha256": "8d1938cca5b713c5e4ff5bdd893fea33debe637e8428f47e5f1b3efe15422f6b",
+      "identical_installed_files": 29
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/EpiDISH_2.26.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\EpiDISH_2.26.0.zip",
+      "bytes": 2020599,
+      "sha256": "d521de3cbeacd1fbd8c107193fb368212a23af0509842f9695f2b13704a52c76",
+      "identical_installed_files": 31
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/limma_3.66.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\limma_3.66.0.zip",
+      "bytes": 2957857,
+      "sha256": "ae2e78a88050244dd1e04a780092b59621a91d12a9ef358f0b09bbf64e41f5ed",
+      "identical_installed_files": 32
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/quadprog_1.5-8.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\quadprog_1.5-8.zip",
+      "bytes": 37479,
+      "sha256": "13e88db9deb0de383cd0535ecb02a6fe65558af7964473379ee14d31d02d58f0",
+      "identical_installed_files": 22
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/SummarizedExperiment_1.40.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\SummarizedExperiment_1.40.0.zip",
+      "bytes": 1507362,
+      "sha256": "29514e3508b9c4cdff535e1b85f3460d708843564df7c02a0a6dd860ef4649b8",
+      "identical_installed_files": 48
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/corpcor_1.6.10.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\corpcor_1.6.10.zip",
+      "bytes": 118218,
+      "sha256": "6aff435bff321b2997a05f2e609d14c8a7a437e11658a40163b423bf46733e64",
+      "identical_installed_files": 21
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/doParallel_1.0.17.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\doParallel_1.0.17.zip",
+      "bytes": 192357,
+      "sha256": "cea7ebb607c43247a8d737c8ba34626874078943c47f4e5858fc9ecb7078f328",
+      "identical_installed_files": 31
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/tidyr_1.3.2.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\tidyr_1.3.2.zip",
+      "bytes": 1276711,
+      "sha256": "aede03d340aa02f4da24d249dcb732a2d181a4fdeef991aabb4164df5800d189",
+      "identical_installed_files": 58
+    },
+    {
+      "url": "https://cloud.r-project.org/bin/windows/contrib/4.5/GGally_2.4.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\GGally_2.4.0.zip",
+      "bytes": 2062803,
+      "sha256": "3c9c6f069c942f62d8b5dfc6de20f724990cbd5fe859fd16a38c210ab8e01d32",
+      "identical_installed_files": 26
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/BiocGenerics_0.56.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\BiocGenerics_0.56.0.zip",
+      "bytes": 663228,
+      "sha256": "b17311e8220716a728f93d3261750075ba6051ebe8d265953d7901e1fbe6070a",
+      "identical_installed_files": 29
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/S4Vectors_0.48.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\S4Vectors_0.48.1.zip",
+      "bytes": 1876326,
+      "sha256": "7b48fa22300ba0b4ef82feded1207750dcb312c1d8475f95c1b8376622cd21d0",
+      "identical_installed_files": 58
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/GenomicRanges_1.62.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\GenomicRanges_1.62.1.zip",
+      "bytes": 1211252,
+      "sha256": "e22b6f5a2835018ceb1f8f6e1c2f36b2a63cf322c53027afb344beeb4df3b45a",
+      "identical_installed_files": 39
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/DelayedArray_0.36.1.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\DelayedArray_0.36.1.zip",
+      "bytes": 2115177,
+      "sha256": "fbd2b572ac260d9aa485f7d4df3c13e95947a5ab9a782fb9cb9387af8758ed95",
+      "identical_installed_files": 47
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/BiocVersion_3.22.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\BiocVersion_3.22.0.zip",
+      "bytes": 8513,
+      "sha256": "cb0e1065e6e8b0a00d18462743bd6270e76f8dc43a96c8f0d5565ee9f2b0db2f",
+      "identical_installed_files": 17
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/TOAST_1.24.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\TOAST_1.24.0.zip",
+      "bytes": 3774400,
+      "sha256": "f1cdf7be4c9b8b306e0eea0c03ddcbb59346d495db1cbf3b86e32eb343175943",
+      "identical_installed_files": 32
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/Biobase_2.70.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\Biobase_2.70.0.zip",
+      "bytes": 2058367,
+      "sha256": "4359e3764b92fd51c154402d48c932bc94cb2702bb862bf5c88c3df1144551fc",
+      "identical_installed_files": 124
+    },
+    {
+      "url": "https://bioconductor.org/packages/3.22/bioc/bin/windows/contrib/4.5/SingleCellExperiment_1.32.0.zip",
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\dependency_binaries\\SingleCellExperiment_1.32.0.zip",
+      "bytes": 1150802,
+      "sha256": "b1b9ddf98706ca57a662bc445e8abeec928b29c03c0e2195083cbc8c29494854",
+      "identical_installed_files": 33
+    }
+  ],
+  "music_source_files": [
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\DESCRIPTION",
+      "bytes": 931,
+      "sha256": "50a00d77af939eb4a4656502a21e33e1fcc658b1096933014b64cfb884138675"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\NAMESPACE",
+      "bytes": 1012,
+      "sha256": "7e36ccae356e96a859a97498e44446426dd2c475b189edbfba8fc94cf6570a0a"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\analysis.R",
+      "bytes": 12061,
+      "sha256": "2b4b3ae66cf64d2c0de1fac23cd2f1c9463c3b3947e61c031ab9c66e0edc6137"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\construct.R",
+      "bytes": 17223,
+      "sha256": "99be5a7af680571cb631bcb091f68f0ebe8949447de0321fbe0e0a4b903ee39b"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\music2.R",
+      "bytes": 32593,
+      "sha256": "bef720bf8dfb3babb169689987388691244c3c5074b3fbcf172b0b6dda5382b7"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\plot.R",
+      "bytes": 28281,
+      "sha256": "cf54da188ac6165269321a84bac62fe2892b056c718622619a7a0a35baae9495"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\simulation.R",
+      "bytes": 6957,
+      "sha256": "009b8aff1c00c6bb138694cfcd4f19d630b824c5d8808a9eb5f45ba2bbce92ed"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\utils.R",
+      "bytes": 18910,
+      "sha256": "8d6465e6c3cbb8ad05f4058f45b197de4918219c9a4b67e87a4f5903dc954736"
+    },
+    {
+      "path": "data\\raw\\MuSiC_runtime\\20260917T090134491841Z\\MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c\\R\\zzz.R",
+      "bytes": 272,
+      "sha256": "119383e079ed9ebbf6da480dfb80c4bc6936d88376d5560b9f54060bd4c33ca2"
+    }
+  ],
+  "r_executables": [
+    {
+      "path": "C:\\Program Files\\R\\R-4.5.2\\bin\\Rscript.exe",
+      "bytes": 154624,
+      "sha256": "66921700dc477930627fc09cf2e734ad9e4a9d55d2c39f8c95cec6e24ff40d6d"
+    },
+    {
+      "path": "C:\\Program Files\\R\\R-4.5.2\\bin\\x64\\R.dll",
+      "bytes": 40484864,
+      "sha256": "a2d499b85e01d897f17391ecd0e382d42d169195fc2565b2199927539feccd65"
+    },
+    {
+      "path": "C:\\Program Files\\R\\R-4.5.2\\bin\\x64\\Rblas.dll",
+      "bytes": 203776,
+      "sha256": "61db8f4101906f6df0e533273a2c221f2b09265ef5e36cf8c51b16b231e2d5fc"
+    },
+    {
+      "path": "C:\\Program Files\\R\\R-4.5.2\\bin\\x64\\Rgraphapp.dll",
+      "bytes": 255488,
+      "sha256": "61c5020fcd350444444d7e273c2ebb3f5d54656e69d9c87e1859c2cdf65029c4"
+    },
+    {
+      "path": "C:\\Program Files\\R\\R-4.5.2\\bin\\x64\\Riconv.dll",
+      "bytes": 34304,
+      "sha256": "23dfafee7160747eff142011d52896a1206a5fa1a58fa8c6be4930b9741e2a13"
+    },
+    {
+      "path": "C:\\Program Files\\R\\R-4.5.2\\bin\\x64\\Rlapack.dll",
+      "bytes": 2983936,
+      "sha256": "a5b7e09d10c0191aa366949adf9d6cefe17bb485aad5e6478e3c629b7742baa8"
+    }
+  ]
+}

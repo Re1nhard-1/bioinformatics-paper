@@ -1,0 +1,38 @@
+{
+  "commit": "f21fe67f5670d5e9fca0ad7550abaae3423eb59c",
+  "url": "https://codeload.github.com/xuranw/MuSiC/zip/f21fe67f5670d5e9fca0ad7550abaae3423eb59c",
+  "archive_filename": "MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c.zip",
+  "archive_bytes": 68200648,
+  "archive_sha256": "b092e1c17dc4ebe4c90af9729d40bdc1bcc08e74e1e7792d3d67c9b3bf4c0126",
+  "source_directory_name": "MuSiC-f21fe67f5670d5e9fca0ad7550abaae3423eb59c",
+  "files": [
+    {
+      "path": "R/analysis.R",
+      "sha256": "2b4b3ae66cf64d2c0de1fac23cd2f1c9463c3b3947e61c031ab9c66e0edc6137"
+    },
+    {
+      "path": "R/construct.R",
+      "sha256": "99be5a7af680571cb631bcb091f68f0ebe8949447de0321fbe0e0a4b903ee39b"
+    },
+    {
+      "path": "R/music2.R",
+      "sha256": "bef720bf8dfb3babb169689987388691244c3c5074b3fbcf172b0b6dda5382b7"
+    },
+    {
+      "path": "R/plot.R",
+      "sha256": "cf54da188ac6165269321a84bac62fe2892b056c718622619a7a0a35baae9495"
+    },
+    {
+      "path": "R/simulation.R",
+      "sha256": "009b8aff1c00c6bb138694cfcd4f19d630b824c5d8808a9eb5f45ba2bbce92ed"
+    },
+    {
+      "path": "R/utils.R",
+      "sha256": "8d6465e6c3cbb8ad05f4058f45b197de4918219c9a4b67e87a4f5903dc954736"
+    },
+    {
+      "path": "R/zzz.R",
+      "sha256": "119383e079ed9ebbf6da480dfb80c4bc6936d88376d5560b9f54060bd4c33ca2"
+    }
+  ]
+}
