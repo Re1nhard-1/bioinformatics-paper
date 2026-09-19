@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: "Cite this code/data release and the original data sources."
 type: software
 title: "Code and simulation data for donor allocation and reference-cell budget in MuSiC PBMC simulations"
-version: "1.0.0"
+version: "1.0.1"
 authors:
   - family-names: Jiang
     given-names: Yunhao
 license: GPL-3.0-or-later
 repository-code: "https://github.com/Re1nhard-1/bioinformatics-paper"
-doi: "10.5281/zenodo.22834929"
+doi: "10.5281/zenodo.22843994"

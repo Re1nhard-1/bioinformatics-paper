@@ -2,7 +2,7 @@
 
 Code, exact cell selections, processed simulation inputs, saved predictions, full-precision summaries and figure source data for a controlled reference-design study. The study separates within-type donor allocation from total reference-cell budget. It includes the original cohort, external three-budget experiment, alternative reference grouping, mechanism diagnostics, arrangement-effect distributions and twelve additional reference-sampling blocks.
 
-Archive DOI: https://doi.org/10.5281/zenodo.22834929
+Archive DOI: https://doi.org/10.5281/zenodo.22843994
 
 ## Download and reproduce
 
@@ -16,6 +16,8 @@ python reproduce.py all
 ```
 
 `python reproduce.py original` recalculates the five original saved-prediction stages and compares their principal MAE/RMSE summaries. `python reproduce.py additional` checks all 645,120 additional prediction rows and 322,560 weighted diagnostics, recalculates every additional-draw summary, runs the separate standard-library summary check and compares all resulting CSVs with the archived values. Fresh result folders preserve the saved outputs.
+
+For script roles, optional source-tool dependencies and historical-layout requirements, see [REPRODUCTION.md](REPRODUCTION.md).
 
 ## Find the results
 
