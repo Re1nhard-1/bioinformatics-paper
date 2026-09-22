@@ -24,11 +24,12 @@ Install `environment/requirements-deconvolution.lock.txt`. From the extracted di
 
 ```sh
 python analysis/plot_manuscript_figures.py
+python analysis/plot_profiles_from_source.py
 python analysis/plot_real_bulk.py
 python analysis/summarize_salmon_pilot.py --plot-only
 ```
 
-These commands read saved results for Figures 1–2 and S3–S6; they do not refit MuSiC. Output goes to `figures/` beside the extracted directory. Figure S1/S2 source data and their original plotting scripts are included; the supplied PDFs are the manuscript figures. `results/manuscript_tables/` gives Tables 1 and S1–S18. Full-precision simulation summaries remain in the named `results/music_*_review/` directories. Measured-bulk results are in `results/real_bulk/`, `real_bulk_scale/` and `real_bulk_salmon/`.
+These commands read saved results for Figures 1–2 and S1–S6; they do not refit MuSiC. Output goes to `figures/` beside the extracted directory. The supplied PDFs are the manuscript figures. `results/manuscript_tables/` gives Tables 1 and S1–S18. Full-precision simulation summaries remain in the named `results/music_*_review/` directories. Measured-bulk results are in `results/real_bulk/`, `real_bulk_scale/` and `real_bulk_salmon/`.
 
 ## Reproduction
 
