@@ -1,0 +1,9 @@
+Entry,Contents
+A1,Earlier normalized-cell exploratory findings: results/manuscript_tables/Table_S3.csv; full description in Section S7.
+A2,Original endpoint summaries: results/music_review/; software and source information: reproduction_integrated/environment/.
+A3,Four-level gradient: results/​music_​gradient_​review/​ and results/​music_​gradient_​figures/​
+A4,Thinning comparison: results/music_downsampling_review/.
+A5,"External design: results/​music_​external_​selection/​, results/​music_​external_​input/​, results/​music_​external/​ and results/​music_​external_​review/​"
+A6,Alternative grouping: results/​music_​reference_​composition/​ and results/​music_​reference_​composition_​review/​
+A7,"Profile/weight diagnostics: results/​music_​mechanism/​, results/​music_​mechanism_​review/​ and results/​music_​mechanism_​independent/​"
+A8,Parameterized reconstruction and fitting: reproduction_integrated/code/; processed inputs and saved predictions: data.zip.

@@ -1,0 +1,5 @@
+Output,B,Balanced MAE,10:1:1 MAE,I(B)
+Weighted MuSiC,60,5.325,5.927,+0.602
+Weighted MuSiC,300,5.225,5.192,−0.033
+Ordinary NNLS,60,8.712,8.896,+0.184
+Ordinary NNLS,300,8.651,8.701,+0.049

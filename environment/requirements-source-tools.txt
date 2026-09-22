@@ -1,0 +1,2 @@
+-r requirements-deconvolution.lock.txt
+h5py==3.16.0

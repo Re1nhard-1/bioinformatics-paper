@@ -1,0 +1,9 @@
+Output,Allocation,RMSE,Conditional SD
+Weighted MuSiC,1:1:1,7.106,1.968
+Weighted MuSiC,2:1:1,7.178,1.993
+Weighted MuSiC,4:1:1,7.365,1.981
+Weighted MuSiC,10:1:1,7.941,2.056
+Ordinary NNLS,1:1:1,11.566,5.139
+Ordinary NNLS,2:1:1,11.581,5.308
+Ordinary NNLS,4:1:1,11.567,5.503
+Ordinary NNLS,10:1:1,11.625,5.884

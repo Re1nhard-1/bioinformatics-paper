@@ -1,0 +1,17 @@
+# Real PBMC bulk assessment
+
+Version 1, fixed on 22 September 2026 before fitting these samples.
+
+Use the 12 Monaco S13 participants with both PBMC RNA-seq (GSE107011, SRP125125) and flow cytometry in supplementary Table S6 of Monaco et al. (2019; doi:10.1016/j.celrep.2019.01.041). DZQV has no released usable flow result and is excluded for that reason. Do not use the sorted-cell profiles or expression-derived proportions as truth.
+
+Use recount3 GENCODE v26 gene coverage counts on GRCh38, divided by each run's STAR average mapped length and rounded, as in recount3 `compute_read_counts`. These are read-equivalent counts, not the GEO TPM matrix. Match Ensembl stable IDs after removing version numbers while retaining PAR suffixes. Leave the single-cell matrices and their library sizes unchanged; MuSiC selects common genes internally. No gene selection, cell-size calibration or parameter tuning against flow results.
+
+Reuse all 1,344 saved references from the 12 additional global draw blocks (3–14), 14 distinct donor triples, budgets of 60 and 300 cells per type, and balanced or 10:1:1 allocations with each donor dominant. Every reference predicts all 12 independent-cohort bulk samples once. Do not repeat the four synthetic held-out assignments attached to a triple. Fit the existing six cell types with unchanged MuSiC 1.0.0 parameters; save both weighted and internal ordinary NNLS estimates and convergence diagnostics. This NNLS output is not an independent algorithm.
+
+For evaluation, aggregate predictions to B cells, T cells, NK cells and monocytes. Flow counterparts are Table S6 columns `B Naive + Memory`, `T cells`, `NK` and `Monocytes`. B excludes separately labelled plasmablasts in both sources. Combine CD4/CD8 predictions because the Perez CD8 compartment includes MAIT cells; combine the two monocyte predictions because the flow panel separates an intermediate class. The broad T comparison still has residual annotation differences, including gamma-delta cells. Retain all 12 participants regardless of prediction error. Report the measured percentage covered by these four groups and renormalize their flow proportions to sum to one. Unmodelled cells remain in the measured bulk, so this estimates agreement among represented lineages, not complete PBMC composition.
+
+Primary measure: four-lineage MAE in percentage points. For each participant, block and triple, subtract balanced MAE from each 10:1:1 arrangement. Average the three dominant choices equally, then triples and blocks equally. Report I(60), I(300) and I(300) − I(60), all participant-specific contrasts, and balanced/imbalanced absolute MAE. Also retain the distribution across triple/dominant arrangements after averaging over blocks and participants. Estimate conditional Monte Carlo SE from the 12 complete global block contrasts; this measures reference-draw precision for these fixed data, not population uncertainty. No significance testing or outcome-dependent stopping, sample exclusions, new draws or alternative grouping search.
+
+Keep this assessment separate from the six-type simulations: the target cohort, assay and scoring resolution differ. A contrary result must narrow the interpretation rather than trigger tuning to reproduce the simulation trend.
+
+Implementation: `prepare_real_bulk.py`, `run_real_bulk.R` and `summarize_real_bulk.py`. Inputs and source URLs are in `data/processed/real_bulk/sources.json`; predictions and summaries are in `results/real_bulk/`.

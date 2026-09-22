@@ -1,0 +1,9 @@
+Diagnostic,B=60,B=120,B=300
+Minor-profile V ×106,235.914,129.069,48.179
+Gene-summed Σ allocation contrast ×10⁶,109.727,58.981,22.558
+Shared-support weight TV,0.404,0.346,0.288
+Shared-support weight Spearman,0.564,0.623,0.713
+Weight-support Jaccard,0.946,0.968,0.984
+Balanced weight fraction retained,0.947,0.968,0.986
+Unequal weight fraction retained,0.945,0.973,0.989
+"Eight-target weighted I(B), points",+0.750,+0.247,−0.141

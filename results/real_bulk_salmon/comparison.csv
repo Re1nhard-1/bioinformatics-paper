@@ -1,0 +1,7 @@
+arm,method,B,T,NK,Monocytes,mae_pp,change_from_direct_pp,B_zero,T_zero
+direct_counts,weighted,0,0,0.565213935129885,0.4347860648701146,34.35832847510201,0.0,True,True
+direct_counts,nnls,0,0,0.0,1.0,38.08725016774648,0.0,True,True
+salmon_saved_basis,weighted,0,0,0.468721257496558,0.5312787425034425,34.358328475102034,2.1316282072803006e-14,True,True
+salmon_saved_basis,nnls,0,0,0.0,1.0,38.087250167746475,-7.105427357601002e-15,True,True
+salmon_shared_prefilter,weighted,0,0,0.468697816325242,0.5313021836747579,34.35832847510202,7.105427357601002e-15,True,True
+salmon_shared_prefilter,nnls,0,0,0.0,1.0,38.087250167746475,-7.105427357601002e-15,True,True

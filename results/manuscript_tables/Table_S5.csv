@@ -1,0 +1,3 @@
+Source,Eligible donors / selected cells,Genes supplied,Reference triples per held-out donor,Budgets per type,Within-target cell sampling,Reference draws
+Original cultured SLE,"6 / 11,066","35,635",All 10 of the other 5 donors,60,With replacement within type,Fold/triple-specific paired prefixes
+External normal/na,"14 / 93,892 selected","30,172",Four predefined triples of 12 of the other 13 donors,"60, 120, 300",Without replacement within each target,Donor/type/block prefixes reused across folds/triples

@@ -1,0 +1,9 @@
+Source,Output,B,1:1:1,2:1:1,4:1:1,10:1:1,I(B)
+"Original SLE, n=6",Weighted MuSiC,60,5.634,5.697,5.862,6.361,+0.728
+"Original SLE, n=6",Ordinary NNLS,60,9.110,9.137,9.147,9.227,+0.117
+"External normal/na, n=14",Weighted MuSiC,60,5.290,5.351,5.480,5.911,+0.621
+"External normal/na, n=14",Weighted MuSiC,120,5.178,5.220,5.245,5.454,+0.276
+"External normal/na, n=14",Weighted MuSiC,300,5.280,5.281,5.227,5.214,−0.066
+"External normal/na, n=14",Ordinary NNLS,60,8.552,8.603,8.619,8.720,+0.167
+"External normal/na, n=14",Ordinary NNLS,120,8.590,8.624,8.588,8.656,+0.066
+"External normal/na, n=14",Ordinary NNLS,300,8.684,8.699,8.673,8.654,−0.030

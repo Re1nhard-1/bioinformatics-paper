@@ -1,0 +1,15 @@
+{
+  "sample_id": "453W",
+  "reference_id": "d00_d01_d02_b3_n300_balanced",
+  "gates": {
+    "read_retention_ge_70pct": true,
+    "mapping_ge_70pct": true,
+    "weighted_converged": true,
+    "variance_finite": true,
+    "B_recovered": false,
+    "T_recovered": false,
+    "weighted_mae_improved": false
+  },
+  "expand_to_remaining_participants": false,
+  "interpretation_limit": "One selected post-hoc diagnostic sample and one fixed reference; not cohort validation or exact reproduction of Zhao's pipeline."
+}

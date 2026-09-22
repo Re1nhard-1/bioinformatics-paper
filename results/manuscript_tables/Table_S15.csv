@@ -1,0 +1,9 @@
+Study and experiment,Reference donor identities,Cells per type,Within-type donor quotas,Multiple cell budgets,Evidence
+Zhao: condition matching [S9],Fixed within a reference; differ across conditions/​runs,Fixed B unspecified,Condition composition varied; quota intervention unspecified,"20 versus 40 donors, not controlled B",Simulation study; Fig. 1
+Huuki-Myers: type balancing [S5],Same source cohort; donor retention per draw unspecified,1599 (Bisque) or 1601 (hspe) after downsampling,Types equalized; donor quotas not controlled,Full versus one reduced B per method,Equal proportion reference simulation; Figs. S29–S30
+Huuki-Myers: donor subsampling [S5],Number and selected identities change,Fixed B unspecified,Donor inclusion varied,"Ten donor counts, 3–52",Donor subsampling simulation; Fig. S33
+Dietrich: context comparison [S10],Reference datasets/​sources differ,500 in training references,Quota intervention unspecified,One B in this experiment,Technology/​tissue-context methods; Fig. 6B–C
+Dietrich: efficiency [S10],Same Hao source; donor retention unspecified,Not the stated control,Quota intervention unspecified,1000–100000 whole-reference cells,Computational-efficiency methods
+Malik: preview and fixed code [S11],Biological donor identities not established in the inspected code,Code caps each type at 200,Not established from available evidence,Allocation-by-B grid not established,Publisher preview; fixed MuSiC runner
+Huang: scValue deconvolution [S13],Two fixed reference donors,Selected by subsampling method,Within-type quotas not controlled,Subsampling evaluated; no quota-by-B grid,T&ILC synthetic mixtures; deconvolution experiment
+Present external experiment,Same three donors per paired comparison,Fixed B within each comparison,Four ratios; all dominant choices,B=60/​120/​300; follow-ups at 60/​300,"S11, S14 and S17"

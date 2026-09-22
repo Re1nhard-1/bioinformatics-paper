@@ -1,0 +1,3 @@
+method,direct_mae_pp,rpl_excluded_mae_pp,change_pp,participants_improved,B_zero_fits,T_zero_fits,participants
+nnls,37.64432529641166,37.64432529641166,8.881784197001252e-16,0,12,12,12
+weighted,31.671632910697337,26.74079801073341,-4.930834899963923,12,0,12,12
